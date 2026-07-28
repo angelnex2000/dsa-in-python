@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/angelnex2000/dsa-with-python/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/angelnex2000/dsa-with-python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/angelnex2000/dsa-with-python/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/angelnex2000/dsa-with-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/angelnex2000/dsa-with-python/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/angelnex2000/dsa-with-python/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
